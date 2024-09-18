@@ -1,0 +1,12 @@
+
+AMR data 
+
+100,000 rows of 12 variables 
+
+This data respresents the sort of data that might be obtained from the 2nd generation surveillence system. 
+
+*id interger - A unique identifier for each person 
+*date of birth - individuals date of birth 
+*sex - individualds sex 
+*ethnicity - individuals ethnicity
+  
